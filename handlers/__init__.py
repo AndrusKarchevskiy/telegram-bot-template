@@ -1,4 +1,4 @@
-from .groups import dp
-from .users import dp
+from .groups_handlers import dp
+from .users_handlers import dp
 
 __all__ = ["dp"]
