@@ -12,7 +12,7 @@ All used modules and libs you can check at requirements.txt, in project
 
 **Installation:** 
 
-1) *git clone https://github.com/AndrusKarchevskiy/telegram-bot-template* 
+1) *git clone https://github.com/karchx/telegram-bot-template* 
 
 2) *pip install -r requirements.txt*
 
